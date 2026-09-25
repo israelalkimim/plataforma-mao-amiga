@@ -13,7 +13,7 @@
 ---
 
 ## 💡 Sobre o Projeto
-A **Plataforma Mão Amiga** resolve o problema clássico da contratação de prestadores de serviço: a falta de previsibilidade, segurança e histórico de avaliações. O produto entrega um aplicativo móvel rápido e um painel web que viabilizam solicitação de orçamentos, validação de profissionais e chat de negociação.
+A **Plataforma Mão Amiga** resolve o problema clássico da contratação de prestadores de serviço: A falta de previsibilidade, segurança e histórico de avaliações. O produto entrega um aplicativo móvel rápido e um painel web que viabilizam solicitação de orçamentos, validação de profissionais e chat de negociação.
 
 ---
 
