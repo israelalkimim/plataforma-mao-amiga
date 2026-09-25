@@ -18,7 +18,7 @@ A **Plataforma Mão Amiga** resolve o problema clássico da contratação de pre
 ---
 
 ## 🛠️ Stack Tecnológica
-- **Backend:** **PHP/Laravel** com **Express** e **TypeScript** tipado de ponta a ponta
+- **Backend:** **PHP/Laravel/Node.js** com **Express** e **TypeScript** tipado de ponta a ponta
 - **Mobile:** **React Native** (Expo), interfaces desenhadas para uso prático com uma mão
 - **Estilização:** **TailwindCSS** com design system consistente entre Web e App
 - **Banco de Dados:** **MySQL** relacional com modelagem normalizada (E-R)
