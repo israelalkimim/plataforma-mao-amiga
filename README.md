@@ -1,4 +1,4 @@
-# 🤝 Plataforma Mão Amiga — Marketplace de Serviços e Mão de Obra
+# 🤝 Plataforma Mão Amiga - Marketplace de Serviços e Mão de Obra
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Fase%20Final-blue?style=for-the-badge" alt="Status" />
